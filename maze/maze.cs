@@ -7,6 +7,8 @@ namespace maze
 {
     class maze
     {
+        //meze push用
+        
         public class node
             :IComparable<node>
         {
